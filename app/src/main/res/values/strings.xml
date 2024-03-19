@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android home 7</string>
+    <string name="number" />
+    <string name="Number">Введите номер</string>
+    <string name="editNamber">введите номер</string>
+    <string name="btn_whatsapp">whatsapp</string>
+</resources>
